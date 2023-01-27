@@ -91,6 +91,11 @@ You can also clone this repo and use setup.py.
 .. code:: bash
 
     git clone https://github.com/dimatura/pypcd
+    
+.. code:: bash
+
+    python3.6 -m pip install --user git+https://github.com/dwc13/pypcd
+
 
 Note that downloading data assets will
 require `git-lfs <https://git-lfs.github.com>`__.
